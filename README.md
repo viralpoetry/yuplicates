@@ -1,2 +1,2 @@
 # yuplicates
-Find duplicates in Ansible variables
+Find duplicates and unused Ansible variables
